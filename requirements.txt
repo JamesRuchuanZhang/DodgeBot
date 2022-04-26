@@ -1,0 +1,12 @@
+pandas
+numpy
+sklearn
+lcu
+time
+requests
+lcu_driver
+pickle
+os
+seaborn
+matplotlib
+json
